@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atishage.github.io/sitemap.html.gz
+Sitemap: https://atishage.github.io/app/sitemap.html.gz
+Sitemap: https://atishage.github.io/assets/sitemap.html.gz
+Sitemap: https://atishage.github.io/css/sitemap.html.gz
+Sitemap: https://atishage.github.io/includes/sitemap.html.gz
+Sitemap: https://atishage.github.io/item/sitemap.html.gz
+Sitemap: https://atishage.github.io/src/sitemap.html.gz
